@@ -7,6 +7,7 @@ Julia Workshop June 2017
  - A bit about types
  - basic objects
  - indexing
+ - data frames
  
  
 ### 2. Numerical Computing (KOB)
