@@ -1,7 +1,7 @@
-# LimerickWorkshop
+## Limerick Workshop
 Julia Workshop June 2017
 
-1. Introduction
+### 1. Introduction (KOB)
  - Basic Installation of Jupyter Notebooks for Julia. 
  - Importing Data Sets
  - A bit about types
@@ -9,14 +9,16 @@ Julia Workshop June 2017
  - indexing
  
  
- 2. Numerical Computing
+### 2. Numerical Computing (KOB)
   - Gambler's Ruin
-  - Simulations
+  - Probability Simulations
   
   
- 3. Cluster Analysis 
+### 3. Cluster Analysis (KOB)
   - 
   
- 4. Logistic Regression
+### 4. Logistic Regression (KOB)
   - A quick introduction
+  
+### 5. Mad Deep Learning   
   
