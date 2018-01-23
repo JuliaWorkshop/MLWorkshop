@@ -1,5 +1,5 @@
 ## Limerick Workshop
-Julia Workshop June 2017
+Julia Workshop March 2018
 
 ### 1. Introduction (KOB)
  - Basic Installation of Jupyter Notebooks for Julia. 
