@@ -7,7 +7,7 @@
  
 ### Who is presenting this event?
 
- - This event will be led by Kevin O'Brien, with the assistance of  Paul Palmes of IBM
+ - This event will be led by Kevin O'Brien, (UL) and  Paul Palmes (IBM).
 
 ### How is the event structured?
 
@@ -21,7 +21,8 @@
 
 ### What do attendees need to have installed?
 
- - Continuum Analytics distribution of Anaconda
+ - No software installation is required.
+ - Attendees must set up an account on www.juliabox.com . a github account is also useful.
 
 ### How many people will be there?
 
@@ -32,8 +33,8 @@
 ### How will we advertise it?
 
  - We will add it to the UL Science and Engineering newsletter.
- - We will promote the event on the Data Scientists Ireland meetup page (2600 members).
- - We will also use the Data Scientists Ireland twitter account (1770 followers).
+ - We will promote the event on the Data Scientists Ireland meetup page (3400 members).
+ - We will also use the Data Scientists Ireland twitter account (2100 followers).
 
 ### What is the benefit for Limerick City?
 
